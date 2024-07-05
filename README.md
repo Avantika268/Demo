@@ -1,3 +1,3 @@
 # Demo
-GitHub Learning
-Author: Avantika Deshmukh
+GitHub Learning<br>
+<b>Author: Avantika Deshmukh<b>
